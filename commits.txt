@@ -1,0 +1,11 @@
+commit e6202cf97f16540c60ac3497a4b7726a782ea16d
+Author: espineldago <espineldago@gmail.com>
+Date:   Thu Aug 23 12:48:44 2018 -0500
+
+    cambio de back a blanco
+
+commit 05211b62303ae2865e3f35d8cb6cd62bb680f859
+Author: espineldago <espineldago@gmail.com>
+Date:   Thu Aug 23 12:46:50 2018 -0500
+
+    incio de proyecto cambio de back
